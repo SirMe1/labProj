@@ -32,9 +32,9 @@ user_id : integer,autoincrement(fk : user table)
 public class Datah{
   //properties
   const DB_HOST = '10.20.113.55';
-  const DB_NAME = '91383_oop';
-  const DB_USER = '91383';
-  const DB_PASS = '91383r';
+  const DB_NAME = '92815_oop';
+  const DB_USER = '92815';
+  const DB_PASS = '92815';
 
   private $host;
   private $dbname;
